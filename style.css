@@ -1,0 +1,22 @@
+div {
+    display: inline-block;
+    border: 1px solid white;
+    width: 200px;
+    height: 200px;
+    font-size: 0px;   
+}
+.red {
+    background-color: red;
+}
+.blue {
+    background-color:rgb(10, 171, 255);
+}
+.green {
+    background-color: rgb(85, 228, 50);
+}
+.yellow {
+    background-color: yellow;
+}
+#border {
+    border: 3px solid black;
+}
